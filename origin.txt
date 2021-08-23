@@ -1,0 +1,176 @@
+Uri: https://minetrust.ru/
+File Name: c:\Downloaded Web Sites\minetrust.ru\index.htm
+Content Type: text/html
+
+Uri: https://minetrust.ru/img/helper.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\helper.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/korol.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\korol.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/magistr-middle.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\magistr-middle.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/karatel.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\karatel.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/titan.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\titan.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/voin.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\voin.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/money1.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\money1.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/money2.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\money2.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/prefix2.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\prefix2.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/prefix1.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\prefix1.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/prefix3.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\prefix3.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/legend.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\legend.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/lord.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\lord.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/favicon.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\favicon.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/css/pipui.css?1
+File Name: c:\Downloaded Web Sites\minetrust.ru\css\pipui.css
+Content Type: text/css
+
+Uri: https://minetrust.ru/css/pipui-responsive.css?1
+File Name: c:\Downloaded Web Sites\minetrust.ru\css\pipui-responsive.css
+Content Type: text/css
+
+Uri: https://minetrust.ru/css/style.css
+File Name: c:\Downloaded Web Sites\minetrust.ru\css\style.css
+Content Type: text/css
+
+Uri: https://minetrust.ru/css/style-responsive.css
+File Name: c:\Downloaded Web Sites\minetrust.ru\css\style-responsive.css
+Content Type: text/css
+
+Uri: https://minetrust.ru/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://minetrust.ru/js/pipui.js?1
+File Name: c:\Downloaded Web Sites\minetrust.ru\js\pipui.js
+Content Type: application/javascript
+
+Uri: https://minetrust.ru/js/notify.js
+File Name: c:\Downloaded Web Sites\minetrust.ru\js\notify.js
+Content Type: application/javascript
+
+Uri: https://minetrust.ru/js/script.js?1
+File Name: c:\Downloaded Web Sites\minetrust.ru\js\script.js
+Content Type: application/javascript
+
+Uri: https://minetrust.ru/img/monikon.webp
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\monikon.webp
+Content Type: 
+
+Uri: https://minetrust.ru/img/_verified-by-visa.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\_verified-by-visa.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/_mastercard-securecode.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\_mastercard-securecode.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/MIRaccept.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\MIRaccept.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://minetrust.ru/img/main_mine.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\main_mine.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/link-arrow.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\link-arrow.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/fire.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\fire.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/1.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\1.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/img/2.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\img\2.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://minetrust.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-error.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://minetrust.ru/cdn-cgi/images/cf-icon-server.png
+File Name: c:\Downloaded Web Sites\minetrust.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
